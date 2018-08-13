@@ -136,7 +136,7 @@ BOARD_USES_QC_TIME_SERVICES := true
 
 # Recovery
 TARGET_RECOVERY_FSTAB := $(LOCAL_PATH)/rootdir/fstab.lv3
-PRODUCT_COPY_FILES += home/superstar/android/system/device/lge/lv3/twrp.fstab:recovery\root\etc\twrp.fstab
+PRODUCT_COPY_FILES += home/daniel/android/c7/device/lge/lv3/twrp.fstab:recovery\root\etc\twrp.fstab
 
 
 #TWRP
